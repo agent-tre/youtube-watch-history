@@ -1,7 +1,7 @@
 # YouTube Watch History Logger
 
 **Created:** 2026-02-26
-**Goal:** Log YouTube watch history outside of YouTube for reflection, similar to podcast history tracking
+**Goal:** Log YouTube watch history outside of YouTube for personal reflection
 
 ## Problem Statement
 
@@ -9,7 +9,6 @@ YouTube's watch history is locked inside their platform. For personal reflection
 - Daily JSON logs of what was watched
 - Video completion status (completed vs started vs dropped)
 - Data stored locally, outside Google's control
-- Similar format to the podcast history folder
 
 ## Solution Architecture
 
